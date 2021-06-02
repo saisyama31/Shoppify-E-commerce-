@@ -2,7 +2,7 @@
 
 > eCommerce platform built with the MERN stack & Redux.
 
-![screenshot]()
+![screenshot](https://github.com/saisyama31/Shoppify-E-commerce-/blob/master/uploads/yo.png)
 
 ## Features
 
